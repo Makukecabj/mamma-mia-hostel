@@ -29,8 +29,8 @@ window.__CONFIG = {
     "video": "videos/city-video.mp4"
   },
   "contact": {
-    "whatsapp": "https://wa.me/54951997647167",
-    "phone": "+54951997647167",
+    "whatsapp": "https://wa.me/51997647167",
+    "phone": "+51997647167",
     "email": ""
   },
   "social": {
@@ -372,7 +372,7 @@ window.__CONFIG = {
         "name": "Mamma mia hostel",
         "description": "Habitaciones cómodas y buena onda en Mamma mia hostel, Perú.",
         "url": "",
-        "telephone": "+54951997647167",
+        "telephone": "+51997647167",
         "email": "",
         "image": "",
         "sameAs": [
